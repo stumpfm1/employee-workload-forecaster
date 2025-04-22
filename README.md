@@ -1,0 +1,3 @@
+# 🛠️ Employee Workload Forecaster
+
+A lightweight, low-cost workload forecasting tool...
